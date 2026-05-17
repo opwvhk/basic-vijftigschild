@@ -8,5 +8,6 @@ overwegingen. Er zijn legio modernere bronnen om mee te leren programmeren.
 Tot nu toe zijn de volgende programma's toegevoegd:
 - [Mijn Computer](MijnComputer.bas)
 - [31 Fiches](31Fiches.bas)
+- [Dobbelsteen](Dobbelsteen.bas)
 
 Veel plezier!
