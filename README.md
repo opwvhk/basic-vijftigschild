@@ -20,9 +20,9 @@ Tot nu toe zijn de volgende programma's toegevoegd:
 - [Letters](standaard/Letters.bas)
 - [Galgje](standaard/Galgje.bas)
 - [Mastermind](standaard/Mastermind.bas)
-<!--
 - [Vier-op-een-rij](standaard/VierOpEenRij.bas)
 
+<!--
 ## Science Fiction
 - [...](science_fiction/.bas)
 
