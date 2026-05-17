@@ -6,9 +6,28 @@ Het boek is nauwelijks meer te vinden, maar de programmacode heb ik bewaard uit 
 overwegingen. Er zijn legio modernere bronnen om mee te leren programmeren.
 
 Tot nu toe zijn de volgende programma's toegevoegd:
-- [Mijn Computer](MijnComputer.bas)
-- [31 Fiches](31Fiches.bas)
-- [Dobbelsteen](Dobbelsteen.bas)
-- [Sul en Xantippe](SulEnXantippe.bas)
+<!--
+
+## Standaard
+-->
+- [Mijn Computer](standaard/MijnComputer.bas)
+- [31 Fiches](standaard/31Fiches.bas)
+- [Dobbelsteen](standaard/Dobbelsteen.bas)
+- [Sul en Xantippe](standaard/SulEnXantippe.bas)
+- [Eenentwintigen](standaard/Eenentwintigen.bas)
+<!--
+- [Hoog-laag](standaard/HoogLaag.bas)
+- [Gokken](standaard/Gokken.bas)
+- [Letters](standaard/Letters.bas)
+- [Galgje](standaard/Galgje.bas)
+- [Mastermind](standaard/Mastermind.bas)
+- [Vier-op-een-rij](standaard/VierOpEenRij.bas)
+
+## Science Fiction
+- [...](science_fiction/.bas)
+
+## Simulatie:
+- [...](simulatie/.bas)
+-->
 
 Veel plezier!
