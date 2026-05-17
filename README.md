@@ -15,8 +15,8 @@ Tot nu toe zijn de volgende programma's toegevoegd:
 - [Dobbelsteen](standaard/Dobbelsteen.bas)
 - [Sul en Xantippe](standaard/SulEnXantippe.bas)
 - [Eenentwintigen](standaard/Eenentwintigen.bas)
-<!--
 - [Hoog-laag](standaard/HoogLaag.bas)
+<!--
 - [Gokken](standaard/Gokken.bas)
 - [Letters](standaard/Letters.bas)
 - [Galgje](standaard/Galgje.bas)
