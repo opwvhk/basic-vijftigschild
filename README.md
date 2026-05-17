@@ -9,5 +9,6 @@ Tot nu toe zijn de volgende programma's toegevoegd:
 - [Mijn Computer](MijnComputer.bas)
 - [31 Fiches](31Fiches.bas)
 - [Dobbelsteen](Dobbelsteen.bas)
+- [Sul en Xantippe](SulEnXantippe.bas)
 
 Veel plezier!
