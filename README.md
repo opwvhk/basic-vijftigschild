@@ -29,8 +29,8 @@ Tot nu toe zijn de volgende programma's toegevoegd:
 - [De Compusaurus](science_fiction/Compusaurus.bas)
 - [De Zandplaneet Silico](science_fiction/ZandplaneetSilico.bas)
 - [Rigel Zuiderkwartier](science_fiction/RigelZuiderkwartier.bas)
-<!--
 - [De Slag bij de Shrixheuvels](science_fiction/SlagBijDeShrixheuvels.bas)
+<!--
 
 ## Simulatie:
 - [Kolenmijn](simulatie/Kolenmijn.bas)
