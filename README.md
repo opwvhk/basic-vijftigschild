@@ -22,12 +22,20 @@ Tot nu toe zijn de volgende programma's toegevoegd:
 - [Mastermind](standaard/Mastermind.bas)
 - [Vier-op-een-rij](standaard/VierOpEenRij.bas)
 
-<!--
 ## Science Fiction
-- [...](science_fiction/.bas)
+- [Maanlander](science_fiction/Maanlander.bas)
+<!--
+- [Ruimtevaartuig](science_fiction/Ruimtevaartuig.bas)
+- [De Blijde](science_fiction/Blijde.bas)
+- [De Compusaurus](science_fiction/Compusaurus.bas)
+- [De Zandplaneet Silico](science_fiction/ZandplaneetSilico.bas)
+- [Rigel Zuiderkwartier](science_fiction/RigelZuiderkwartier.bas)
+- [De Slag bij de Shrixheuvels](science_fiction/SlagBijDeShrixheuvels.bas)
 
 ## Simulatie:
-- [...](simulatie/.bas)
+- [Kolenmijn](simulatie/Kolenmijn.bas)
+- [Boerderij Zeldenrust](simulatie/BoerderijZeldenrust.bas)
+- [De Stadhouder van Flipflopland](simulatie/StadhouderVanFlipflopland.bas)
 -->
 
 Veel plezier!
