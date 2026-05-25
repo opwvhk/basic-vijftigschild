@@ -25,8 +25,8 @@ Tot nu toe zijn de volgende programma's toegevoegd:
 ## Science Fiction
 - [Maanlander](science_fiction/Maanlander.bas)
 - [Ruimtevaartuig](science_fiction/Ruimtevaartuig.bas)
-<!--
 - [De Blijde](science_fiction/Blijde.bas)
+<!--
 - [De Compusaurus](science_fiction/Compusaurus.bas)
 - [De Zandplaneet Silico](science_fiction/ZandplaneetSilico.bas)
 - [Rigel Zuiderkwartier](science_fiction/RigelZuiderkwartier.bas)
