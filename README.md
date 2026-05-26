@@ -1,15 +1,20 @@
 # Basic Computerspellen
+
 Dit zjn de Basic-programma's uit "Basic Computerspellen", geschreven door M.Th.A.M. Vijftigschild,
-en uitgegeven in 1982 door Kluwer Software-reeks.
+en uitgegeven in 1982 door Kluwer in de Kluwer Software-reeks.
 
-Het boek is nauwelijks meer te vinden, maar de programmacode heb ik bewaard uit sentimentele
-overwegingen. Er zijn legio modernere bronnen om mee te leren programmeren.
+Mocht u het boek willen lezen om deze programma's volledig tot hun recht te laten komen, dan zult u
+goed moeten zoeken. Het boek is namelijk nauwelijks meer te vinden, en uitsluitend tweedehands. De
+programmacode heb ik hier bewaard uit sentimentele overwegingen, omdat ik het boek zelf heb. Er zijn
+trouwens legio modernere bronnen om mee te leren programmeren.
 
-Tot nu toe zijn de volgende programma's toegevoegd:
-<!--
+Veel plezier!
+
+&nbsp;
+
+De computerspellen uit het boek:
 
 ## Standaard
--->
 - [Mijn Computer](standaard/MijnComputer.bas)
 - [31 Fiches](standaard/31Fiches.bas)
 - [Dobbelsteen](standaard/Dobbelsteen.bas)
@@ -35,5 +40,3 @@ Tot nu toe zijn de volgende programma's toegevoegd:
 - [Kolenmijn](simulatie/Kolenmijn.bas)
 - [Boerderij Zeldenrust](simulatie/BoerderijZeldenrust.bas)
 - [De Stadhouder van Flipflopland](simulatie/StadhouderVanFlipflopland.bas)
-
-Veel plezier!
