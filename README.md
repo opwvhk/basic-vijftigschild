@@ -33,8 +33,8 @@ Tot nu toe zijn de volgende programma's toegevoegd:
 
 ## Simulatie:
 - [Kolenmijn](simulatie/Kolenmijn.bas)
-<!--
 - [Boerderij Zeldenrust](simulatie/BoerderijZeldenrust.bas)
+<!--
 - [De Stadhouder van Flipflopland](simulatie/StadhouderVanFlipflopland.bas)
 -->
 
